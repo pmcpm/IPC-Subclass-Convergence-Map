@@ -13,7 +13,7 @@ The dataset is organized as follows:
 Contains the raw co-occurrence edge lists for IPC Subclasses.
 
 * **`Result_ipc_subClass_co_occurrence_20250329.csv`**
-    * **Description**: The complete raw co-occurrence matrix/network of IPC Subclasses extracted from the DOCDB database.
+    * **Description**: The complete raw co-occurrence network of IPC Subclasses extracted from the DOCDB database.
     * **Format**: Likely `Source`, `Target`, `Co_occurrence frequency`.
 * **`Result_ipc_subClass_keep2025_co_occurrence_20250329.csv`**
     * **Description**: The co-occurrence network filtered to include only IPC codes present in the **2025 version** of the IPC scheme (consistent with the paper's methodology).
