@@ -33,9 +33,9 @@ These files define the layout (coordinates), clustering, and labels of the globa
     * **Purpose**: Alternative map with different clustering/layout parameters (e.g., Resolution 1.0, Min occurence 20).
 
 #### Overlay/Metric Files (VOSviewer Score Files)
-These files contain the calculated convergence metrics (e.g., $\Delta n$, $\Delta l$, or normalized weights) to be overlaid on the base map.
+These files contain the calculated convergence metrics to be overlaid on the base map.
 
 * **`Result_ipc_subClass_co_occurrence_20250329_frac_r0_5_min_50_mapAllYear_keep2025IPC_weight_score.csv`**
-    * **Purpose**: Contains the calculated node weights and scores (e.g., normalized frequency change) corresponding to the "mapAllYear" base map.
+    * **Purpose**: Contains the calculated node weights and scores corresponding to the base map.
 * **`Result_ipc_subClass_co_occurrence_20250329_frac_A2_R1_r1_min_20_mapAllYear_keep2025IPC_weight_score.csv`**
     * **Purpose**: Contains the weights and scores corresponding to the alternative "A2_R1..." map.
